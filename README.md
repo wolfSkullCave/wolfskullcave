@@ -14,7 +14,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌍 Connect with Me
-- [LinkedIn](www.linkedin.com/in/kyle-dirks-b4584922b)
+- [LinkedIn](https://www.linkedin.com/in/kyle-dirks-b4584922b)
 
 ## 📂 Projects
 Here are some of my notable projects:
