@@ -20,5 +20,3 @@
 Here are some of my notable projects:
 - [Currency Converter](https://github.com/wolfSkullCave/currency-converter-wolf-skullcave): A command line currency converter application to convert USD and EURO into ZAR.
 
-## ⚡ Fun Fact
-I enjoy playing games in my free time!
