@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Kyle!
 
 ## 🌱 About Me
-- I’m currently learning HTML, CSS, JavaScript, and Python.
+- I’m currently learning JavaScript, and Python.
 - I’m passionate about Web and Application Development.
 - I enjoy working on front-end development and building applications.
 
