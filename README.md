@@ -10,9 +10,6 @@
 - **Frameworks:** None yet (looking to learn React or Django soon!)
 - **Tools:** Git, VS Code, PyCharm
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kyle-dirks-b4584922b)
 
