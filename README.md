@@ -12,6 +12,7 @@
 
 ## 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kyle-dirks-b4584922b)
+- [Dribbble](https://dribbble.com/wolfSkullCave)
 
 ## 📂 Projects
 Here are some of my notable projects:
