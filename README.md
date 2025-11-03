@@ -17,4 +17,4 @@
 ## 📂 Projects
 Here are some of my notable projects:
 - [Currency Converter](https://github.com/wolfSkullCave/currency-converter-wolf-skullcave): A command line currency converter application to convert USD and EURO into ZAR.
-
+- [tic-tac-toe](https://github.com/wolfSkullCave/tic-tac-toe-js): A simple game of tic-tac-toe built as part of the Odin Project curriculam. 
