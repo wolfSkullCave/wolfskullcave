@@ -18,4 +18,5 @@
 Here are some of my notable projects:
 - [Currency Converter](https://github.com/wolfSkullCave/currency-converter-wolf-skullcave): A command line currency converter application to convert USD and EURO into ZAR.
 - [tic-tac-toe](https://github.com/wolfSkullCave/tic-tac-toe-js): A simple game of tic-tac-toe built as part of the Odin Project curriculam. 
-- [Admin Dashboard](https://github.com/wolfSkullCave/odin-library): A simple admin dashboard built as part of the Odin Project curriculam. 
+- [Admin Dashboard](https://github.com/wolfSkullCave/odin-library): A simple admin dashboard built as part of the Odin Project curriculam.
+- [Odin Library](https://github.com/wolfSkullCave/Admin-Dashboard): A simple library front end.
